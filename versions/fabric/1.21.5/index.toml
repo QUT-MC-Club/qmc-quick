@@ -18,7 +18,7 @@ hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient.json"
-hash = "b7fca37cbc8d38287a8a710648042bf27acfe656c36f0404056f4899206719e6"
+hash = "1c22471a1170a9bcbc80bc3005f320a2430197bc5753afa2f8b681ceeae7782a"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "808f7eefe15f8a8f8811735836612cf35996f96a9b0d9681825a069088bc03e2"
+hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d1f561a89e7a4c5d98b6cbb25088ea2ad56ca1cff60118f2076912f49f8cfed3"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "490ba76f29d72efd6083e48bb987270080c797f54a954d49cacb18a041d0a315"
+hash = "55af0e58d06119397b0165444fd8858149ed0df20eda21863c5e0b564f40ae5c"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8b481b1845bb190388182a683a4efe506516429ede29757923f48eba2e1a43e4"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "341d2f9067d49415b929f6a848ca4557c9ce8a16f2f27de11db25b572d901089"
+hash = "9085d73099198064a333bd46754ac2a6eb1f8890f74b3c366f8b27817fe75fc6"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "08e7fcbf0eb89fd14ebbbe9f041c60c5b5cd63e5554386766b6ef7476e7ed65a"
+hash = "0e87c425ed5a205efeacc2a684e4fd186cd3230e40908682dd043b64be256898"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "bc5b833dac6b91f96e3d650e1209d141b9267ce7cb7ac45b8b5a976d6c6a5f4e"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
 metafile = true
 
 [[files]]
