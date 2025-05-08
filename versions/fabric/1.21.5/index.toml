@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "978efca4becf70d906e4f5ace0eddbbcff49a333fe636da7fe8290feac57c740"
+hash = "54d48b1c4710e3f489789ad31c5402dd9dea2bf438ba36b4afde2d8574470324"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
