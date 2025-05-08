@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "config": {
+    "general": {
+      "screenshotUtils": {
+        "enabled": "false",
+        "autoExec": "off"
+      },
+      "auth": {
+        "auth.showButton": "false"
+      },
+      "customWindowTitle": "false"
+    },
+    "api.category": {
+      "enabled": "false"
+    },
+    "storedOptions": {
+      "hudEditScreen": {
+        "snapping": "true"
+      },
+      "defNoSecret": "false",
+      "creditsBGM": "false",
+      "privacyPolicyAccepted": "DENIED"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Vivecraft"
+filename = "vivecraft-1.21.5-1.2.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/J1qJdi79/vivecraft-1.21.5-1.2.5-fabric.jar"
+hash-format = "sha512"
+hash = "539f2b557a8e5c227c9a57210a650d65ca97d845d55231fb426bed84cefabc72f513e6fe29b5080b63a5885507bfff6614343e30f2253753330f8cdc64d71a81"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "J1qJdi79"
