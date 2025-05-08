@@ -1,6 +1,6 @@
 name = "Polymer"
 filename = "polymer-bundled-0.12.4+1.21.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xGdtZczs/versions/hJ7RjAL6/polymer-bundled-0.12.4%2B1.21.5.jar"
