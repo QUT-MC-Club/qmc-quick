@@ -1,13 +1,13 @@
 name = "Inventory Sorting"
-filename = "inventorysorter-fabric-2.0.5+mc1.21.5.jar"
+filename = "inventorysorter-fabric-2.0.6+mc1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/pw2lpw1m/inventorysorter-fabric-2.0.5%2Bmc1.21.5.jar"
+url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/BdCeXo0h/inventorysorter-fabric-2.0.6%2Bmc1.21.5.jar"
 hash-format = "sha512"
-hash = "856a744eb5442583aacc3a7a1ee06b12177b204ab01b7513f4cce3862a46a0cefff609088c781445b84ad1e4306b9447ae161a8494b80aa2abc4a8e5719c7875"
+hash = "76a366469bb4acd8b629b435a1db496cd15cfb64492188f933da8bb0a2029a793e0a1ef4c650639683b30edfa017be99ec71f3044d8b79853633fd7f73f782f7"
 
 [update]
 [update.modrinth]
 mod-id = "5ibSyLAz"
-version = "pw2lpw1m"
+version = "BdCeXo0h"

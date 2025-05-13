@@ -1,0 +1,1345 @@
+{
+  "version": "2.0.0",
+  "config": {
+    "general": {
+      "screenshotUtils": {
+        "enabled": "false",
+        "autoExec": "off"
+      },
+      "auth": {
+        "auth.showButton": "false"
+      },
+      "loadingBgColor": "#FFEF323D;false;1.0",
+      "nightMode": "false",
+      "customWindowTitle": "false",
+      "debugLogOutput": "false",
+      "datetime_format": "yyyy/MM/dd HH:mm:ss",
+      "configStyle": "configStyle.vanilla"
+    },
+    "nametagOptions": {
+      "showOwnNametag": "false",
+      "useShadows": "false",
+      "nametagBackground": "true",
+      "showBadges": "true",
+      "customBadge": "false",
+      "badgeText": ""
+    },
+    "rendering": {
+      "blockOutlines": {
+        "enabled": "false",
+        "color": "#DD000000;false;1.0"
+      },
+      "timeChanger": {
+        "enabled": "false",
+        "time": "0"
+      },
+      "zoom": {
+        "zoomDivisor": "4.0",
+        "zoomSpeed": "7.5",
+        "zoomScrolling": "false",
+        "decreaseSensitivity": "true",
+        "smoothCamera": "false"
+      },
+      "scrollableTooltips": {
+        "enabled": "false",
+        "shiftHorizontalScroll": "true",
+        "scrollAmount": "5",
+        "inverse": "false"
+      },
+      "tnttime": {
+        "enabled": "false",
+        "decimalplaces": "2"
+      },
+      "particles": {
+        "Angry Villager": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Ash": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Block": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Block Crumble": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Block Marker": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Bubble": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Bubble Column Up": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Bubble Pop": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Campfire Cosy Smoke": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Campfire Signal Smoke": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Cherry Leaves": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Cloud": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Composter": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Crimson Spore": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Crit": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0",
+          "alwaysCrit": "false"
+        },
+        "Current Down": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Damage Indicator": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dolphin": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dragon Breath": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Dripstone Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Dripstone Water": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Honey": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Obsidian Tear": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dripping Water": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dust": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dust Color Transition": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dust Pillar": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Dust Plume": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Effect": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Egg Crack": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Elder Guardian": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Electric Spark": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Enchant": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Enchanted Hit": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0",
+          "alwaysCrit": "false"
+        },
+        "End Rod": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Entity Effect": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Explosion": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Explosion Emitter": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Dripstone Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Dripstone Water": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Dust": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Honey": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Nectar": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Obsidian Tear": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Spore Blossom": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Falling Water": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Firefly": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Firework": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Fishing": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Flame": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Flash": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Glow": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Glow Squid Ink": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Gust": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Gust Emitter Large": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Gust Emitter Small": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Happy Villager": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Heart": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Infested": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Instant Effect": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Item": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Item Cobweb": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Item Slime": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Item Snowball": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Landing Honey": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Landing Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Landing Obsidian Tear": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Large Smoke": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Lava": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Mycelium": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Nautilus": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Note": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Ominous Spawning": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Pale Oak Leaves": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Poof": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Portal": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Raid Omen": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Rain": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Reverse Portal": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Scrape": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sculk Charge": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sculk Charge Pop": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sculk Soul": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Shriek": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Small Flame": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Small Gust": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Smoke": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sneeze": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Snowflake": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sonic Boom": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Soul": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Soul Fire Flame": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Spit": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Splash": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Spore Blossom Air": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Squid Ink": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Sweep Attack": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Tinted Leaves": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Totem Of Undying": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Trail": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Trial Omen": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Trial Spawner Detection": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Trial Spawner Detection Ominous": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Underwater": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Vault Connection": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Vibration": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Warped Spore": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Wax Off": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Wax On": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "White Ash": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "White Smoke": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "Witch": {
+          "showParticle": "true",
+          "count": "1",
+          "customColor": "false",
+          "color": "#FFFFFFFF;false;1.0"
+        },
+        "enabled": "false"
+      },
+      "beams": {
+        "showBeaconBeams": "true",
+        "showEndGatewayBeams": "true"
+      },
+      "tablist": {
+        "numericalPing": "false",
+        "showPlayerHeads": "true",
+        "shadow": "true",
+        "showHeader": "true",
+        "showFooter": "true",
+        "alwaysShowHeadLayer": "false",
+        "pingColor0": "#FF00FFFF;false;1.0",
+        "pingColor1": "#FF00FF00;false;1.0",
+        "pingColor2": "#FF008800;false;1.0",
+        "pingColor3": "#FFFFFF00;false;1.0",
+        "pingColor4": "#FFFF8800;false;1.0",
+        "pingColor5": "#FFFF0000;false;1.0",
+        "enable_background": "true",
+        "custom_background_color": "false",
+        "bgcolor": "#80000000;false;1.0"
+      },
+      "dynamicFov": "true",
+      "fullBright": "false",
+      "removeVignette": "false",
+      "lowFire": "false",
+      "lowShield": "false",
+      "hitColor": "#4DFF0000;false;1.0",
+      "minimalViewBob": "false",
+      "noHurtCam": "false",
+      "noRain": "false"
+    },
+    "hud": {
+      "pinghud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "refreshTime": "4",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "fpshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "cpshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "cpskeybind": "false",
+        "rightcps": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "armorhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "showProtectionLevel": "false",
+        "show_durability_num": "false",
+        "show_max_durability_num": "false",
+        "armorhud.custom_durability_num_color": "false",
+        "armorhud.durability_num_color": "#FFFFFFFF;false;1.0",
+        "anchorpoint": "TOP_RIGHT",
+        "armorhud.main_hand_item_top": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "potionshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "anchorpoint": "TOP_LEFT",
+        "cardinalorder": "TOP_DOWN",
+        "iconsonly": "false",
+        "showEffectNames": "true",
+        "potionshud.timer_text_color": "#FF7F7F7F;false;1.0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "keystrokehud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "heldtextcolor": "#FF000000;false;1.0",
+        "shadow": "false",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "heldbackgroundcolor": "#64FFFFFF;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "heldoutlinecolor": "#FF000000;false;1.0",
+        "keystrokes.animation_time": "100",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "togglesprint": {
+        "enabled": "false",
+        "scale": "1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "100",
+        "show_brackets": "false",
+        "toggleSprint": "false",
+        "toggleSneak": "false",
+        "randomPlaceholder": "false",
+        "placeholder": "No keys pressed",
+        "x": "0.0",
+        "y": "0.0",
+        "sprintToggled": "false",
+        "sneakToggled": "false"
+      },
+      "iphud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "iphud.show_icon": "false",
+        "iphud.height": "13",
+        "anchorpoint": "TOP_LEFT",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "iconhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "speedhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "horizontal": "true",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "scoreboardhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "backgroundcolor": "#4C000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "topbackgroundcolor": "#66000000;false;1.0",
+        "scores": "true",
+        "scorecolor": "#FFFF5555;false;1.0",
+        "anchorpoint": "MIDDLE_RIGHT",
+        "toppadding": "0",
+        "text_alpha": "255",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "crosshairhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "crosshair_type": "CROSS",
+        "customTextureGraphics": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAKklEQVR4XmMYhuA/EODzFhMlfh44zYzIzibkR5BaRiAgyqvDNMCGaNIGAJidDAaJRqipAAAAAElFTkSuQmCC",
+        "showInF5": "false",
+        "overrideF3": "false",
+        "applyBlend": "true",
+        "defaultcolor": "#FFFFFFFF;false;1.0",
+        "entitycolor": "#FFBF2222;false;1.0",
+        "blockcolor": "#FF3399FF;false;1.0",
+        "crosshairhud.custom_attack_indicator": "false",
+        "attackindicatorbg": "#FF141414;false;1.0",
+        "attackindicatorfg": "#FFFFFFFF;false;1.0",
+        "x": "0.5",
+        "y": "0.5"
+      },
+      "coordshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "firsttextcolor": "#FF3399FF;false;1.0",
+        "secondtextcolor": "#FFFFFFFF;false;1.0",
+        "decimalplaces": "0",
+        "minimal": "false",
+        "show_biome": "false",
+        "anchorpoint": "TOP_MIDDLE",
+        "coordshud.delimiter": ": ",
+        "coordshud.separator": ", ",
+        "coordshud.separator.color": "#FF3399FF;false;1.0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "actionbarhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "timeshown": "60",
+        "customtextcolor": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "bossbarhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "text": "true",
+        "bar": "true",
+        "anchorpoint": "TOP_LEFT",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "arrowhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "dynamic": "false",
+        "allArrowTypes": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "itemupdatehud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "timeout": "6",
+        "itemupdatehud.bracket_color": "#FF323232;false;1.0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "packdisplayhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "iconsonly": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "irltimehud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "dateformat": "HH:mm:ss",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "reachhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "decimalplaces": "0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "memoryhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "showGraph": "true",
+        "graphUsedColor": "#FFBF2222;false;1.0",
+        "graphFreeColor": "#FF35DB67;false;1.0",
+        "showText": "false",
+        "showAllocated": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "playercounthud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "compasshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "shadow": "true",
+        "width": "240",
+        "showdegrees": "true",
+        "invert_direction": "false",
+        "lookingbox": "#80000000;false;1.0",
+        "degreescolor": "#FFFFFFFF;false;1.0",
+        "cardinalcolor": "#FFFFFFFF;false;1.0",
+        "semicardinalcolor": "#FFAAAAAA;false;1.0",
+        "majorindicator": "#FFFFFFFF;false;1.0",
+        "minorindicator": "#CCFFFFFF;false;1.0",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "tpshud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "combohud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "playerhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "dynamicrotation": "true",
+        "rotation": "0.0",
+        "autoHide": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "mousemovementhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "mouseMovementIndicator": "iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAEElEQVR4XmOgA/gPBHSwBgCVRAP9BWW6BAAAAABJRU5ErkJggg\u003d\u003d",
+        "mouseMovementIndicatorOuter": "iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAAIUlEQVR4XmP8DwQMxAJiFYPUMTGQAEYVIwcWSaFBUgwCALcGEAMZbXmeAAAAAElFTkSuQmCC",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "debugcountershud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "anchorpoint": "TOP_LEFT",
+        "debugcounters.ccount": "true",
+        "debugcounters.ecount": "false",
+        "debugcounters.pcount": "false",
+        "x": "0.0",
+        "y": "0.0"
+      },
+      "daycounterhud": {
+        "enabled": "false",
+        "scale": "1.0",
+        "background": "true",
+        "bgcolor": "#64000000;false;1.0",
+        "outline": "false",
+        "outlinecolor": "#FFFFFFFF;false;1.0",
+        "textcolor": "#FFFFFFFF;false;1.0",
+        "shadow": "true",
+        "justification": "CENTER",
+        "anchorpoint": "TOP_LEFT",
+        "minwidth": "53",
+        "show_brackets": "false",
+        "x": "0.0",
+        "y": "0.0"
+      }
+    },
+    "hypixel-mods": {
+      "levelhead": {
+        "enabled": "false",
+        "textColor": "#FFB8860B;false;1.0",
+        "background": "false",
+        "levelHeadMode": "NETWORK"
+      },
+      "autogg": {
+        "printGG": "false",
+        "ggString": "gg",
+        "printGF": "false",
+        "gfString": "gf",
+        "printGLHF": "false",
+        "glhfString": "glhf",
+        "onHypixel": "false",
+        "onBWP": "false",
+        "onPVPL": "false",
+        "onMMC": "false"
+      },
+      "autotip": {
+        "enabled": "false",
+        "hideTipMessages": "false"
+      },
+      "nickhider": {
+        "hiddenNameSelf": "You",
+        "hiddenNameOthers": "Player",
+        "hideOwnName": "false",
+        "hideOtherNames": "false",
+        "hideOwnSkin": "false",
+        "hideOtherSkins": "false"
+      },
+      "autoboop": {
+        "enabled": "false",
+        "autoboop.filterlist.mode": "autoboop.filterlist.mode.disabled",
+        "autoboop.filterlist": ""
+      },
+      "skyblock": {
+        "rotationLocked": "false"
+      },
+      "bedwars": {
+        "bedwars_teamupgrades": {
+          "enabled": "false",
+          "scale": "1.0",
+          "background": "true",
+          "bgcolor": "#64000000;false;1.0",
+          "outline": "false",
+          "outlinecolor": "#FFFFFFFF;false;1.0",
+          "bedwars_teamupgrades.renderWhenRelevant": "true",
+          "x": "0.0",
+          "y": "0.0"
+        },
+        "bedwars_resources": {
+          "enabled": "false",
+          "scale": "1.0",
+          "background": "true",
+          "bgcolor": "#64000000;false;1.0",
+          "outline": "false",
+          "outlinecolor": "#FFFFFFFF;false;1.0",
+          "bedwars_resources.renderWhenRelevant": "true",
+          "x": "0.0",
+          "y": "0.0"
+        },
+        "bedwars.deathType": {
+          "bedwars.deathType.combat": "rekt",
+          "bedwars.deathType.void": "yeeted into void",
+          "bedwars.deathType.projectile": "shot",
+          "bedwars.deathType.fall": "fall",
+          "bedwars.deathType.golem": "golem moment",
+          "bedwars.deathType.self_void": "voided",
+          "bedwars.deathType.self_unknown": "died"
+        },
+        "enabled": "false",
+        "bedwars.hardcoreHearts": "true",
+        "bedwars.showHunger": "false",
+        "bedwars.displayArmor": "true",
+        "bedwars.bedwarsLevelHead": "true",
+        "bedwars.bedwarsLevelHeadMode": "GAME_KILLS_GAME_DEATHS",
+        "bedwars.removeAnnoyingMessages": "true",
+        "bedwars.tabRenderLatencyIcon": "false",
+        "bedwars.showChatTime": "true",
+        "bedwars.overrideMessages": "true"
+      },
+      "cache_mode": "ON_CLIENT_DISCONNECT",
+      "removeLobbyJoinMessages": "false"
+    },
+    "rpc": {
+      "enabled": "false",
+      "showTime": "true",
+      "showActivity": "true",
+      "showServerNameMode": "off"
+    },
+    "freelook": {
+      "enabled": "true",
+      "mode": "freelook",
+      "perspective": "THIRD_PERSON_BACK",
+      "invert": "false",
+      "toggle": "false",
+      "perspective.alt": "THIRD_PERSON_FRONT",
+      "toggle.alt": "false"
+    },
+    "api.category": {
+      "api.pluralkit": {
+        "api.pk_token": "",
+        "api.pk_autoproxy": "false",
+        "api.pk_proxymode": "PROXY_OFF",
+        "api.pk_autoproxy_member": ""
+      },
+      "enabled": "false",
+      "friendRequestsEnabled": "true",
+      "statusUpdateNotifs": "true",
+      "api.channels.invites.enabled": "false",
+      "detailedLogging": "false",
+      "api.update_notifications": "false",
+      "api.display_notes": "true",
+      "api.add_shortcut_buttons": "true"
+    },
+    "storedOptions": {
+      "hudEditScreen": {
+        "snapping": "true"
+      },
+      "defNoSecret": "false",
+      "creditsBGM": "true",
+      "privacyPolicyAccepted": "DENIED"
+    }
+  }
+}
