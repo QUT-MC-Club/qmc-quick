@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
+hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "e17d0e113825960f0b044e9ad9197a34810e0d105f6ad4eede0bb705513c5c4f"
+hash = "f1528c261bdabcdc27603147b3abb524593bf05fa0b50815e903b77aa6651ad1"
 metafile = true
 
 [[files]]
@@ -343,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "0e87c425ed5a205efeacc2a684e4fd186cd3230e40908682dd043b64be256898"
+metafile = true
+
+[[files]]
+file = "mods/shulker-preview.pw.toml"
+hash = "887289a41139397190124a0599f24432fe20cfdbd770de7151dfb15a033914d0"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
+hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
 metafile = true
 
 [[files]]
