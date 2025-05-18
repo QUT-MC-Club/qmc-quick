@@ -466,11 +466,6 @@ hash = "e281c5534c703cad826550d294e013cb0cc1d6ad864b9e51609b7a2da5efcbb4"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
 metafile = true
@@ -497,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/branding/assets/axolotlclient/lang/en_us.json"
-hash = "2d970cd39a39f1114f78c7e509a86e7f5457ab92337014c9dd87f66602186c74"
+hash = "17efe24a2987a081684ec36dd265c5d9dec93f754b1a22f443be26b7cc385f49"
 
 [[files]]
 file = "resources/resourcepack/required/branding/assets/axolotlclient/textures/badge.png"
