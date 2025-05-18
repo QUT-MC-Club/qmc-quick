@@ -1,28 +1,29 @@
 {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "config": {
     "general": {
-      "customWindowTitle": "false",
-      "configStyle": "configStyle.vanilla"
+      "customWindowTitle": "false"
     },
     "nametagOptions": {
-      "showOwnNametag": "true",
-      "badgeText": "QMC"
+      "showBadges": "true"
     },
     "rendering": {
       "zoom": {
-        "zoomScrolling": "true"
+        "zoomScrolling": "true",
+        "decreaseSensitivity": "true"
+      },
+      "scrollableTooltips": {
+        "enabled": "true",
+        "shiftHorizontalScroll": "true",
+        "scrollAmount": "5",
+        "inverse": "false"
       }
     },
     "freelook": {
       "enabled": "true"
     },
     "api.category": {
-      "enabled": "true",
       "api.allow_friends_server_join": "true"
-    },
-    "storedOptions": {
-      "privacyPolicyAccepted": "ACCEPTED"
     }
   }
 }
