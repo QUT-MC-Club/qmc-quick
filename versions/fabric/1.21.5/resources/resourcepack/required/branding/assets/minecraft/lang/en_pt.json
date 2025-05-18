@@ -1,3 +1,5 @@
 {
-    "menu.shareToLan": "Open to Crew"
+    "menu.shareToLan": "Open to Crew",
+    "lanServer.start": "Start Crew Island",
+    "lanServer.title": "Crew Island"
 }
