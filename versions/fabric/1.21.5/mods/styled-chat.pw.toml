@@ -1,0 +1,13 @@
+name = "Styled Chat"
+filename = "styled-chat-2.8.0+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/doqSKB0e/versions/E1RdcKyb/styled-chat-2.8.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "60bcd6541ec408241f5e2fd3711afd3b7b572c8fbe6dbdbea3c7486288f7e5424a37e07bad0dee355d0cf2d7b13933ed8b9b7904807c8e26146611b1ec3fcca9"
+
+[update]
+[update.modrinth]
+mod-id = "doqSKB0e"
+version = "E1RdcKyb"
