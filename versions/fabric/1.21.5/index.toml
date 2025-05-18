@@ -22,7 +22,7 @@ hash = "d736fd6bcc3c770af102d287d6d359ac7293a587254b66ce2f619f139ecc7461"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient/axolotlclient.json"
-hash = "a6b043475f14536e2f22e268362265f32962c4fb9152b0136c5949c67ffbbed1"
+hash = "02f6c4330b056951a29a2e4d227d80367afc6ac3b5308a4acba50ba03946276a"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
-hash = "a44ea3e83555545b5f9480249a2dc73f4416d273c3e0b950bdffea9617f5f6bc"
+hash = "e7fe5f7bd3004055531c0c3374f898580320e3b648596c7fefaeec55b8024e7a"
 metafile = true
 
 [[files]]

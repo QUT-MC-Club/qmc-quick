@@ -18,7 +18,8 @@
       "enabled": "true"
     },
     "api.category": {
-      "enabled": "true"
+      "enabled": "true",
+      "api.allow_friends_server_join": "true"
     },
     "storedOptions": {
       "privacyPolicyAccepted": "ACCEPTED"
