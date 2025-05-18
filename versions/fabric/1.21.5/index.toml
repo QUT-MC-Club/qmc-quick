@@ -18,7 +18,7 @@ hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient.json"
-hash = "59bb544ad163efee0dc0a801a945dbd9d830cde6aface8ce6711be22b3ac8070"
+hash = "7af225dea3d42f6d26ab8fd0e05cb31e2791fad38af97f9f0da69317645b8061"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient/axolotlclient.json"
@@ -121,8 +121,8 @@ file = "config/yosbr/options.txt"
 hash = "8376fc26eeea403f20f5f9ec67c6691e30e02a821216cde8c08cc2f94e06a1d1"
 
 [[files]]
-file = "mods/AxolotlClient-3.1.4-alpha.1+1.21.5.jar"
-hash = "0d706863236d5072fdee90eae61e6017afaecc047526e07bd772d81addc94012"
+file = "mods/AxolotlClient-3.1.4-alpha.4+1.21.5.jar"
+hash = "fbd68d869c12c228b35541de336cc37039aa397266f8833ab650a78178fa335a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -345,8 +345,8 @@ hash = "0e87c425ed5a205efeacc2a684e4fd186cd3230e40908682dd043b64be256898"
 metafile = true
 
 [[files]]
-file = "mods/shulker-preview.pw.toml"
-hash = "887289a41139397190124a0599f24432fe20cfdbd770de7151dfb15a033914d0"
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "09555e2480bda5f9f3dc3c2636843470491c147cd0bd32a48147af0efe1e607e"
 metafile = true
 
 [[files]]
