@@ -5,9 +5,7 @@
       "customWindowTitle": "false"
     },
     "nametagOptions": {
-      "showBadges": "true",
-      "customBadge": "true",
-      "badgeText": "QMC"
+      "showBadges": "true"
     },
     "rendering": {
       "zoom": {
