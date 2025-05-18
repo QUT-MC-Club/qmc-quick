@@ -18,7 +18,7 @@ hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient.json"
-hash = "7af225dea3d42f6d26ab8fd0e05cb31e2791fad38af97f9f0da69317645b8061"
+hash = "000292e070b3fcffc216dd88b945c6a3bc720c37b3912fa0d98e3062d911efd2"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient/axolotlclient.json"
