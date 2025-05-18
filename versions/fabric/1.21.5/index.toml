@@ -499,6 +499,26 @@ file = "resources/resourcepack/required/branding/assets/axolotlclient/textures/b
 hash = "53edf504dcd15cbcdb200a91b2164599813dcd382315b09a4c35653030e5f22b"
 
 [[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/lang/en_au.json"
+hash = "d27617b87c2a7f2c9709d29dd4f0cc647f089539d85fed0a21acacaa7392ef51"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/lang/en_pt.json"
+hash = "3d9349845c53a9344182b38654336e0a082c2e84c5751f43b113680fb3ee0e74"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/lang/en_uk.json"
+hash = "d27617b87c2a7f2c9709d29dd4f0cc647f089539d85fed0a21acacaa7392ef51"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/lang/en_us.json"
+hash = "d27617b87c2a7f2c9709d29dd4f0cc647f089539d85fed0a21acacaa7392ef51"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/lang/lol_us.json"
+hash = "d91dd574f76abbed33ca4ae381a2350098f7970d786bd0c5a318ccd7ea537338"
+
+[[files]]
 file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "60dff0ae99e038b2349bf6afe3f00bca9eff4870fe01351a611440ecfdc8daa2"
 
