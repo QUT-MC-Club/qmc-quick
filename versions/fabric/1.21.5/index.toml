@@ -410,6 +410,10 @@ hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/branding/assets/axolotlclient/textures/badge.png"
+hash = "53edf504dcd15cbcdb200a91b2164599813dcd382315b09a4c35653030e5f22b"
+
+[[files]]
 file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "60dff0ae99e038b2349bf6afe3f00bca9eff4870fe01351a611440ecfdc8daa2"
 
