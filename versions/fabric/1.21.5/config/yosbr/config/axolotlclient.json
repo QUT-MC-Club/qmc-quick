@@ -2,42 +2,20 @@
   "version": "2.0.0",
   "config": {
     "general": {
-      "screenshotUtils": {
-        "enabled": "false",
-        "autoExec": "off"
-      },
-      "auth": {
-        "auth.showButton": "false"
-      },
-      "loadingBgColor": "#FFEF323D;false;1.0",
-      "nightMode": "false",
       "customWindowTitle": "false",
-      "debugLogOutput": "false",
-      "datetime_format": "yyyy/MM/dd HH:mm:ss",
       "configStyle": "configStyle.vanilla"
     },
+    "rendering": {
+      "zoom": {
+        "zoomScrolling": "true",
+        "decreaseSensitivity": "true",
+        "smoothCamera": "false"
+      }
+    },
     "api.category": {
-      "api.pluralkit": {
-        "api.pk_token": "",
-        "api.pk_autoproxy": "false",
-        "api.pk_proxymode": "PROXY_OFF",
-        "api.pk_autoproxy_member": ""
-      },
-      "enabled": "false",
-      "friendRequestsEnabled": "true",
-      "statusUpdateNotifs": "true",
-      "api.channels.invites.enabled": "false",
-      "detailedLogging": "false",
-      "api.update_notifications": "false",
-      "api.display_notes": "true",
-      "api.add_shortcut_buttons": "true"
+      "enabled": "false"
     },
     "storedOptions": {
-      "hudEditScreen": {
-        "snapping": "true"
-      },
-      "defNoSecret": "false",
-      "creditsBGM": "true",
       "privacyPolicyAccepted": "DENIED"
     }
   }

@@ -18,11 +18,11 @@ hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient.json"
-hash = "1c22471a1170a9bcbc80bc3005f320a2430197bc5753afa2f8b681ceeae7782a"
+hash = "59bb544ad163efee0dc0a801a945dbd9d830cde6aface8ce6711be22b3ac8070"
 
 [[files]]
 file = "config/yosbr/config/axolotlclient/axolotlclient.json"
-hash = "144384722e4591c2963b4781962f4b2da8e5465ab24c6ad3d099e71d1fa0f078"
+hash = "a6b043475f14536e2f22e268362265f32962c4fb9152b0136c5949c67ffbbed1"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -74,7 +74,7 @@ hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "86122c6d9622166553378db06808d127843d92f8b9dcf98e21eaa0c77806f53f"
+hash = "15d5283eb76c7861c2515039e63dd9fb71ef6f2dbb89ab8f2e42f76f5dce2f69"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -118,16 +118,15 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "462c9c1a7a904a61c9654bf9df80788d7e3c89d8b1e647cfa2d5cf4d8c32b59f"
+hash = "8376fc26eeea403f20f5f9ec67c6691e30e02a821216cde8c08cc2f94e06a1d1"
+
+[[files]]
+file = "mods/AxolotlClient-3.1.4-alpha.1+1.21.5.jar"
+hash = "0d706863236d5072fdee90eae61e6017afaecc047526e07bd772d81addc94012"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
-metafile = true
-
-[[files]]
-file = "mods/axolotlclient.pw.toml"
-hash = "3b7c86d1312474968f24fc3f1130c578ab01f067499eda703837119b1fc3c31e"
 metafile = true
 
 [[files]]
@@ -237,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "5aaaf39c6b840c39689f68142d14ad6963cdd02499ff2ed832a5a0d7fc5b9540"
+hash = "04bf240ff76c8856ff280841280af5025ee448d85c1bd1110c7dfc1ee8635656"
 metafile = true
 
 [[files]]
@@ -392,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
+hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
 metafile = true
 
 [[files]]
@@ -409,6 +408,30 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "60dff0ae99e038b2349bf6afe3f00bca9eff4870fe01351a611440ecfdc8daa2"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "bfc31875a35f947df098cf4fd1fba5eec33384aa8f24b422469a062632cc3bfc"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "edab9239b08b2113a5a4188d24fd23fe1c7ff302ff4cab8b45839a21920e2694"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "f50d74613a29e3a62a2d3b43616622039eb5acac42be9c1465d45e9c555e5c13"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "7b1a07655423ac1a318b0d09cca49c341b74c8adab9d581bdfaa976da88dc60b"
+
+[[files]]
+file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "25a04e2985c46b5039e7f89d4b02e6a464a5321d1d6aaad18358fec5014e6975"
 
 [[files]]
 file = "resources/resourcepack/required/branding/assets/minecraft/textures/gui/title/edition.png"
