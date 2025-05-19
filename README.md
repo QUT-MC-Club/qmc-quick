@@ -13,11 +13,11 @@
     ·
     <a href="https://github.com/QUT-MC-Club/qmc-quick/issues">Request Features</a>
   </p>
-  <a href="https://qutmc.club/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://modrinth.com/modpack/qutmc-quick"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/YXYtac2y2D"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
 </div>
 
-QUTMC Quick is a PVP and building client based on the popular Additive performance pack, it includes compatibility with most optifine features and enhances the gameplay on our server network. This client also includes the server side mods allowing you to use polydecor and such in a singleplayer world.
+QUTMC Quick is a PVP and building client based on the popular [Additive](https://modrinth.com/modpack/additive) performance pack, it includes compatibility with most optifine features and enhances the gameplay on our server network. This client also includes the server side mods allowing you to use polydecor and such in a singleplayer world.
 
 # ⭐ Features
 
