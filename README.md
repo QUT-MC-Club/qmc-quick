@@ -75,4 +75,4 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 
 # ❓ Frequently Asked Questions
 
-For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/intergrav/Additive/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
+For a few frequently asked questions, along with tons of other information, consider visiting the [documentation](https://qutmc.club/start/introduction/). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
