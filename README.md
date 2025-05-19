@@ -24,6 +24,9 @@ QUTMC Quick is a PVP and building client based on the popular Additive performan
 ### 🔗 Integration with QUTMC Club
 This modpack is designed to provide a performant and enjoyable experience on our server network. It includes multiple integrations on the server side to this client such as inventory sorting, maps and minimaps, litematica and tweakaroo. It also serves as a baseline for the mods we have approved for usage on the server.
 
+### 🎤 Voice chat
+QUTMC Quick includes plasmo voice chat which is installed on the qutmc.club network allowing for push to talk in game!
+
 ### 🪑 Server mods on client
 QUTMC quick includes all of the server side mods from qutmc.club. This means you can play around with chairs, tables, plushies and more as you plan out your next major build in creative or just play with friends!
 
