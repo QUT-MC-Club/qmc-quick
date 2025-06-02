@@ -1,13 +1,13 @@
 name = "danse - serverside gestures / emotes"
-filename = "danse-2.0.4+1.21.5.jar"
+filename = "danse-2.1.3+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vSdZ5THv/versions/gW3n04ws/danse-2.0.4%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/vSdZ5THv/versions/tIqr323C/danse-2.1.3%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "7443059ce2158103129aa546646b83f0026b38733084c88eb753bc2e2017836cb329ae053548a97ed617b53ea5e91d25a21ac887a943963514d588a3b9603a8f"
+hash = "699313d223002f5ee953f7ff699fd19e5aea1b65061359e1f3f94e7de1176e3447aceedfe19cb000d6d54e838e86a7c3976e223d66e347acda44caf2b5552903"
 
 [update]
 [update.modrinth]
 mod-id = "vSdZ5THv"
-version = "gW3n04ws"
+version = "tIqr323C"
