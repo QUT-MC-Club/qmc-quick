@@ -81,10 +81,6 @@ file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "config/yosbr/config/plasmovoice/client.toml"
-hash = "22739b5589e976feb3adfefe65249fb084006610c1bf8b7b40fd839c413c2685"
-
-[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -114,7 +110,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8376fc26eeea403f20f5f9ec67c6691e30e02a821216cde8c08cc2f94e06a1d1"
+hash = "a9f2d2aa837b3127567a7d4915609f405cd6625482739abc7d3e9cfeda265b28"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
