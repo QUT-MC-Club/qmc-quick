@@ -138,6 +138,10 @@ hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-fabric-polymerized-3.1.0+1.21.4.jar"
+hash = "ebe377efc061414fe2de424af12c4f3d1671987036428404f93ca847255c4a89"
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
 metafile = true
@@ -311,6 +315,10 @@ metafile = true
 file = "mods/placeholder-api.pw.toml"
 hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
+
+[[files]]
+file = "mods/poly-plushies-1.0.0.jar"
+hash = "71c039c6d3eba016e27c5af484a8796d2aed1a6192447152d2ec26f6b2f98125"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
