@@ -1,0 +1,13 @@
+name = "AxolotlClient"
+filename = "AxolotlClient-3.1.4+1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p2rxzX0q/versions/4m0hiCTp/AxolotlClient-3.1.4%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "b5d204fd1a1af06e4cbbd06c842027728807919f739105f84e97bb951a3ee51f073dffdaad3d11ba268c76174547281ab800443c0f9d0f67cbf6aa05c6bfc488"
+
+[update]
+[update.modrinth]
+mod-id = "p2rxzX0q"
+version = "4m0hiCTp"
