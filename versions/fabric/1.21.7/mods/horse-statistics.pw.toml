@@ -1,0 +1,13 @@
+name = "Horse Statistics"
+filename = "horsestatsmod-fabric-2.1.0-MC1.12.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RnxjxXAI/versions/BQmh32WU/horsestatsmod-fabric-2.1.0-MC1.12.6.jar"
+hash-format = "sha512"
+hash = "982df118e3a0f0a5b0e94dc13106958fd3ffded721f660e272625849bd96017427072c2e1423dfc610c844b7743029a43177a3ec04eaa5a15f1cd0069f57633c"
+
+[update]
+[update.modrinth]
+mod-id = "RnxjxXAI"
+version = "BQmh32WU"

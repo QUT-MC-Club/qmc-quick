@@ -1,0 +1,20 @@
+version:4325
+darkMojangStudiosBackground:true
+enableVsync:false
+guiScale:3
+joinedFirstServer:true
+maxFps:260
+simulationDistance:8
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+onboardAccessibility:true
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+key_key.freelook:key.keyboard.r
+key_gui.xaero_open_map:key.keyboard.n
+key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.left.alt
+key_key.disable_voice_chat:key.keyboard.comma

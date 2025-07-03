@@ -1,0 +1,13 @@
+name = "styled renaming"
+filename = "styled_renaming-1.1.1+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z87eUIv0/versions/9SMhUUP6/styled_renaming-1.1.1%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "a82dee9d4c2972724c67ac551f0bf933d2f2c0d043fa5d7ae31a54c9820c52d58f7124a02ab57df1256c8502082643cd71fc0872c87e6cf60933af1c2850f436"
+
+[update]
+[update.modrinth]
+mod-id = "Z87eUIv0"
+version = "9SMhUUP6"
