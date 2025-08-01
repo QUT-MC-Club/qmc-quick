@@ -1,0 +1,13 @@
+name = "QUTMC Quick"
+author = "ZekeZDev"
+version = "1.3.0+1.21.8.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "340dbca679d2b6b60418708f2b36b5fdab6b355e54c71dc48161aab7d308bf81"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.8"

@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "config": {
+    "general": {
+      "customWindowTitle": "false"
+    },
+    "nametagOptions": {
+      "showBadges": "true"
+    },
+    "rendering": {
+      "zoom": {
+        "zoomScrolling": "true",
+        "decreaseSensitivity": "true"
+      },
+      "scrollableTooltips": {
+        "enabled": "true",
+        "shiftHorizontalScroll": "true",
+        "scrollAmount": "5",
+        "inverse": "false"
+      }
+    },
+    "freelook": {
+      "enabled": "true"
+    },
+    "api.category": {
+      "api.allow_friends_server_join": "true"
+    }
+  }
+}
